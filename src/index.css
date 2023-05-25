@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Oswald:wght@500&family=Ubuntu:wght@500&display=swap');
+
+.fontheader{
+font-family: 'Oswald', sans-serif;
+}
